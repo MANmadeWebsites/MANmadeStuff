@@ -1,7 +1,9 @@
 # Tuff_whatever
 
-Teamleden: Finn (MANmadeWebsites) en Valentino (Valentinopol)
+Teamleden: Finn (MANmadeWebsites) en Valentino (Valentinopol) en Fayline (Fayline651)
 
-Finn: Manager, Chef Marketing
+Finn: Chef marketing
 
-Valentino: Chef product, Chef kwaliteit
+Valentino: Manager, Chef product
+
+Fayline: Chef kwaliteit
